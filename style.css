@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    
+}
+#welcome{
+    background-image: linear-gradient(cyan,green,#8F141B);
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+#name{
+    font-size: 60px;
+    color: #FAFFFD;
+    font-family: 'Style Script', cursive;
+}
+#e43{
+border-radius: 30%;
+    width: 400px;
+}
+#bio{
+    background-color: aquamarine;
+    font-size:20px;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    background-color: black;
+    margin-top: 0px;
+    width: 100%;
+}
+.links{
+display: inline;
+    color: white;
+    font-size:35px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
+#videos{
+    background-color:darkcyan;
+    font-size:30px;
+}
+#work{
+ background-color:grey;
+    font-size:30px;
+}
+
+#articles{
+     background-color:skyblue;
+    font-size:30px;
+}
+.links:hover{
+    font-size:50px;
+    color:darkgrey;
+    cursor: pointer;
+}
+#google_map{
+  background-color: chocolate;
+    color:blue;
+}
+
